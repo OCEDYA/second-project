@@ -1,1 +1,1 @@
-https://github.com/OCEDYA/posmotri-v-okno-ad
+https://github.com/OCEDYA/second-project
