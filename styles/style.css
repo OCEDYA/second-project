@@ -18,7 +18,6 @@ html {
   background-color: #1b1919;
 }
 
-/* Основные стили для контента */
 .content {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -28,7 +27,6 @@ html {
   margin: 0 auto;
 }
 
-/* Стили для секции с результатами */
 .result {
   display: flex;
   flex-direction: column;
@@ -51,7 +49,6 @@ html {
   object-fit: cover;
 }
 
-/* Стили для формы поиска */
 .search-form {
   display: flex;
   gap: 40px;
@@ -110,7 +107,6 @@ html {
   padding-right: 8px;
 }
 
-/* Стили для чекбоксов */
 .search-form__checkbox-list {
   display: flex;
   gap: 15px;
@@ -185,7 +181,6 @@ html {
   outline: none;
 }
 
-/* Стили для деталей контента */
 .content__details {
   display: flex;
   flex-direction: column;
@@ -270,7 +265,6 @@ html {
   flex-shrink: 0;
 }
 
-/* Визуально скрытые элементы */
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -283,7 +277,6 @@ html {
   border: 0;
 }
 
-/* Стили для прелоадера и ошибки */
 .preloader {
   display: flex;
   justify-content: center;
@@ -322,7 +315,6 @@ html {
   margin-top:320px;
 }
 
-/* Адаптивность */
 @media (max-width: 768px) {
   .content {
     grid-template-columns: 1fr;
@@ -358,7 +350,6 @@ ol {
   list-style: none;
 }
 
-/* Кастомный скроллбар */
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
 }
