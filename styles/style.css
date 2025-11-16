@@ -197,7 +197,7 @@ html {
   font-family: 'Oswald', sans-serif;
   font-size: 75px;
   font-weight: 700;
-  line-height: 0.9;
+  line-height: 0.94;
   text-transform: uppercase;
   color: #fff;
 }
@@ -260,7 +260,7 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   color: #fff;
-  line-height: 0.9;
+  line-height: 0.94;
 }
 
 .content__video-card-thumbnail {
@@ -314,7 +314,8 @@ html {
 
 .error__title {
   font-family: 'Fira Sans Condensed', sans-serif;
-  font-size: 24px;
+  font-size: 30px;
+  font-weight: 700;
   color: #fff;
   text-align: center;
   margin: 0;
